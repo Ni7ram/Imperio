@@ -1,4 +1,3 @@
-<img width="1027" height="769" alt="2 nuevo" src="https://github.com/user-attachments/assets/31ea2c17-a60e-49a8-b929-dcf1c09f8820" />
 # IMPERIO
 
 A real-time strategy game for Windows developed in Visual Basic 6 in 2006.
