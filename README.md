@@ -1,4 +1,4 @@
-#IMPERIO
+# IMPERIO
 
 A real-time strategy game for Windows developed in Visual Basic 6 in 2006.
 
