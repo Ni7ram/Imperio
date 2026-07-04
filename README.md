@@ -4,10 +4,15 @@
   RTS built in Visual Basic 6 (2006)
 </p>
 
-<p align="center">
-  ![Platform](https://img.shields.io/badge/platform-Windows-blue)
-  ![Language](https://img.shields.io/badge/language-VB6-purple)
-  ![Status](https://img.shields.io/badge/status-abandoned-lightgrey)
+<p align="center"><p align="center">
+
+  <img src="https://img.shields.io/badge/platform-Windows-blue">
+
+  <img src="https://img.shields.io/badge/language-VB6-purple">
+
+  <img src="https://img.shields.io/badge/status-abandoned-lightgrey">
+
+</p>
 </p>
 
 ## Features
