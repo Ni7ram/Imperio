@@ -43,12 +43,6 @@ Enjoy!
 ---
 
 <p align="center">
-  <img width="1022" height="768" src="https://github.com/user-attachments/assets/40b669d4-f3e4-4cea-8b76-9e9efe4b6afc" />
-</p>
-
----
-
-<p align="center">
   <img width="1019" height="767" alt="5" src="https://github.com/user-attachments/assets/1a178fd6-3192-4e8a-b736-d6b391b822a7" />
 </p>
 
