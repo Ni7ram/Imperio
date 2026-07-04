@@ -35,17 +35,23 @@ Enjoy!
 </p>
 
 ---
+---
+---
 
 <p align="center">
   <img width="1027" height="780" alt="3 nuevo" src="https://github.com/user-attachments/assets/17b4865c-e870-4e2f-865d-0a8841a7e7de" />
 </p>
 
 ---
+---
+---
 
 <p align="center">
   <img width="1019" height="767" alt="5" src="https://github.com/user-attachments/assets/1a178fd6-3192-4e8a-b736-d6b391b822a7" />
 </p>
 
+---
+---
 ---
 
 <p align="center">
