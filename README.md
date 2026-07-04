@@ -40,6 +40,12 @@ Enjoy!
 ---
 
 <p align="center">
+  <img width="520" height="386" alt="0" src="https://github.com/user-attachments/assets/71c64f1f-66e0-4bbf-85d3-c53326ddd872" />
+</p>
+
+<br><br><br>
+
+<p align="center">
   <img width="1027" height="769" alt="2 nuevo" src="https://github.com/user-attachments/assets/17644c2a-db1e-41d9-b357-41a381b8a061" />
 </p>
 
