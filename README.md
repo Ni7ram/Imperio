@@ -8,7 +8,6 @@
   ![Platform](https://img.shields.io/badge/platform-Windows-blue)
   ![Language](https://img.shields.io/badge/language-VB6-purple)
   ![Status](https://img.shields.io/badge/status-abandoned-lightgrey)
-
 </p>
 
 ## Features
