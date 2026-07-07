@@ -46,6 +46,12 @@ Enjoy!
 <br><br><br>
 
 <p align="center">
+  <img width="955" height="590" alt="1" src="https://github.com/user-attachments/assets/e91a2a91-d0b8-466c-b4d2-9d518bdd915e" />
+</p>
+
+<br><br><br>
+
+<p align="center">
   <img width="1027" height="769" alt="2 nuevo" src="https://github.com/user-attachments/assets/17644c2a-db1e-41d9-b357-41a381b8a061" />
 </p>
 
